@@ -1,0 +1,13 @@
+.data,	.data th,	.data td
+{
+	border:2px solid black;
+	
+}
+.left
+{
+	text-align:left;
+}
+.center, .center td
+{
+	text-align:center;
+}

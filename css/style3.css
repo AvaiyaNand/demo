@@ -1,0 +1,10 @@
+.data,	.data td
+{
+	border:2px solid black;
+	text-align:center;
+	height:50px;
+}
+.data
+{
+	border-collapse:collapse;
+}

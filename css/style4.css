@@ -1,0 +1,18 @@
+.data, .data th
+{
+	border:2px solid black;
+	text-align:center;
+	height:50px;
+}
+.data, .data td
+{
+	border:2px solid black;
+	text-align:left;
+}
+.data
+{
+	border-collapse:collapse;
+}
+.data th:nthchild(9){
+	text-align:left	
+}

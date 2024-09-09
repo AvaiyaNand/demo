@@ -1,0 +1,22 @@
+p
+{
+	color:red;
+	background-color:blue;
+	font-size:35px;
+	padding:30px;
+	margin:20px;
+}
+.text
+{
+	color:violet;
+	background-color:#000;
+}
+.center
+{
+	text-align:center;
+}
+#abc
+{
+	color:green;
+	border:10px groove pink;
+}

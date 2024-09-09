@@ -1,0 +1,25 @@
+*
+{
+	border-sizing:border-box;
+}
+
+@font-face
+{
+	font-family:xyz;
+	src:url('../font/Inter/static/Inter_18pt-Black.ttf');
+
+}
+p{
+	font-family:xyz;
+	
+}
+@font-face
+{
+	font-family:xyz1;
+
+	src:url('../font/Inter/static/Inter_18pt-ExtraLightItalic.ttf');
+}
+h1
+{
+	font-family:xyz1;
+}

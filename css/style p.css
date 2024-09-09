@@ -1,0 +1,9 @@
+.data, .data th, .data td
+{
+	border:2px solid red;
+}
+.data
+{
+	width:50%;
+	
+}

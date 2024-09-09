@@ -1,0 +1,412 @@
+*
+{
+	box-sizing:border-box;
+}
+.clearfix:after
+{
+	content:"";
+	display:table;
+	clear:both;	
+}
+.left
+{
+	float:left;
+}
+.img
+{
+	width:60%;
+	display:block;
+	margin:auto;
+}
+.w-25
+{
+	width:25%;
+}
+.w-50
+{
+	width:50%;
+}
+.w-40
+{
+	width:40%;
+}
+.w-10
+{
+	width:10%;
+}
+.menu
+{
+	list-style:none;
+	text-align:center;
+	margin:0px;
+	padding:0px;
+}
+.menu li
+{
+	display:inline;
+}
+.menu li a
+{
+	text-decoration:none;
+	color:#000;
+	padding:10px 16px;
+	display:inline-block;
+	font-size:20px;
+}
+.btn
+{
+	margin:auto;
+	padding:auto;
+	display:block;
+	height:50px;
+	width:50%;
+	font-size:20px;
+	background-color:white;
+	border-radius:5px;
+	color:blue;
+	border:2px inset blue;
+		
+}
+.bg-img
+{
+	background-image:url('../image/11.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:100%;
+	padding-top:170px;
+	padding-bottom:180px;
+}
+.img1
+{
+	width:100%;
+}
+.color
+{
+	color:blue;
+}
+.size
+{
+	font-size:35px;
+}
+.f-size
+{
+	font-size:16px;
+	line-height:30px;
+	text-align: justify;
+}
+.ip
+{
+	padding:50px;
+}
+.ip1
+{
+	padding:10px;
+}
+.bg
+{
+	background-color:aliceblue;
+}
+.margin
+{
+	margin-bottom:50px;
+}
+.s
+{
+	box-shadow:0px 0px 10px;
+}
+.color1
+{
+	background-color:blue;
+	color:white;
+	border-radius:20px;
+	padding:10px 40px;
+}
+.f
+{
+	text-align:center;
+}
+.f1
+{
+	text-align:center;
+	font-size:46px;
+	color:white;
+}
+.f-size1
+{
+	font-size:17px;
+	line-height:25px;
+	text-align: justify;
+}
+.size2
+{
+	font-size:50px;
+	color:white;
+}
+.btn1
+{
+	margin:auto;
+	padding:auto;
+	display:block;
+	height:50px;
+	width:40%;
+	font-size:20px;
+	background-color:white;
+	color:blue;
+	border-radius:5px;
+	border:1px solid white;
+		
+}
+
+.bg-img1
+{
+	background-image:url('../image/11.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:100%;
+	padding-top:50px;
+	padding-bottom:100px;
+	
+}
+.table
+{
+	
+	border:0px solid white;
+	text-align:center;
+	margin:0px;
+	padding:40px;
+	border-radius:20px 0px;
+	color:blue;
+	background-color:white;
+	font-size:60px;
+	transition:1s;
+	
+}
+.table:hover
+{
+	background-color:blue;
+	border-radius:0px 20px;
+	
+}
+.table:hover .i
+{
+	color:white;
+	
+}
+.f-size2
+{
+	color:white;
+	text-align:center;
+	font-size:25px;
+}
+.p1
+{
+	padding:0px 50px 0px 50px;
+}
+.p2
+{
+	padding:0px 100px;
+}
+.bg-img2
+{
+	background-image:url('../image/121.webp');
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:100%;
+	padding-top:40px;
+	padding-bottom:100px;
+	background-color:black;
+}
+.f-size3
+{
+	color:white;
+	font-size:40px;
+	text-align:center;
+	
+}
+.w-33
+{
+	width:33%;
+}
+.f-size4
+{
+	color:#6EC1E4;
+	font-size:26px;
+}
+.table1
+{
+	border:0px solid white;
+	text-align:center;
+	margin:10px;
+	padding:10px;
+}
+.img2
+{
+	width:40%;
+}
+.s1
+{
+	box-shadow:0px 0px 10px white;
+}
+.pd
+{
+	padding:25px 140px 0px;
+}
+.h{
+	height:235px;
+}
+.f-size5
+{
+	color:white;
+	text-align:center;
+}
+.bg-img3
+{
+	background-image:url('../image/121.webp');
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:100%;
+	padding-top:40px;
+	padding-bottom:40px;
+	padding-left: 50px;
+    	padding-right: 50px;
+	background-color:black;
+}
+.w
+{
+	color:white;
+}
+.f-size6 {
+    font-size: 18px;
+    line-height: 35px;
+    text-align: justify;
+}
+.pd1
+{
+	padding:110px 0px 80px;
+}
+.s2
+{
+	text-align:center;
+	font-size:50px;
+	margin:0px;
+	margin-bottom:40px;
+}
+.c
+{
+	text-align:center;
+}
+.t1
+{
+	border:5px double white;
+	margin:5px;
+	padding:5px;
+}
+.table2
+{
+	border:2px solid white;
+	text-align:center;
+	margin:15px;
+	padding:50px 30px 20px;
+	background-color:white;
+	
+}
+.s3
+{
+	font-size:16px;
+	line-height:30px;
+}
+.s4
+{
+	font-size:25px;
+}
+.pd2
+{
+	padding:0px 100px;
+}
+.p3
+{
+	padding:50px;
+}
+
+.f-size7
+{
+	font-size:51px;
+}
+.lg
+{
+	font-size:50px;
+}
+.p
+{
+	margin:10px;
+	width:200px;
+}
+.i:hover 
+{
+	background-color:black;
+	color:white;
+	padding:10px;
+	border-radius:100px;
+	transition:1s;
+}
+.p4
+{
+	padding:20px 20px;
+}
+.m1
+{
+	margin-bottom:40px;
+}
+.p5
+{
+	padding:30px;
+}
+.btn2
+{
+	display:block;
+	height:50px;
+	width:40%;
+	font-size:20px;
+	background-color:white;
+	border-radius:5px;
+	color:purple;
+	border:1px inset purple;
+		
+}
+.margin1
+{
+	margin:70px;
+}
+.b
+{
+	border-radius:30px;
+}
+.bg1
+{
+	background-color:blue;
+}
+.pd4
+{
+	padding:10px;
+}
+.w-20
+{
+	width:20%;
+}
+.c
+{
+	text-align:center;
+}
+.c1
+{
+	color:white;
+}
+.ff-size
+{
+	font-size:30px;
+	padding-left:10px;
+}
+.m2
+{
+	margin-bottom:20px;
+}

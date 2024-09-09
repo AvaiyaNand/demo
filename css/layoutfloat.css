@@ -1,0 +1,66 @@
+.clearfix:after
+{
+	content:"";
+	display:table;
+	clear:both;
+}
+.menu
+{
+	list-style:none;
+	padding:0;
+	margine:0;
+	text-align:center;
+}
+.menu li
+{
+	display:inline;
+}
+.menu li a
+{
+	text-decoration:none;
+	color:#000;
+	padding:10px 16px;
+	display:inline-block;
+}
+button
+{
+	margin:auto;
+	display:block;
+}
+.logo
+{
+	width:50%;
+	margin:auto;
+	display:block;
+}
+.w-25
+{
+	width:25%;
+}
+.w-50
+{
+	width:50%;		
+}
+.left
+{
+	float:left;
+}
+.px-15
+{
+	padding:0px 15px;
+}
+.banner
+{
+	width:100%;
+	padding:20px;
+}
+
+*{
+	box-sizing:border-box;
+	text-align:justify;
+	font-family: "Merriweather", serif;
+
+}
+p{
+	font-size:30px;
+}

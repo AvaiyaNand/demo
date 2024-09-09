@@ -1,0 +1,7 @@
+.table
+{
+	border:2px solid red;
+	width:200px;
+	height:200px;
+	background: radial-gradient(closest-side, #33ccff  50%, #ff99cc 100%);
+} 

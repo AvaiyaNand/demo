@@ -1,0 +1,43 @@
+.clearfix:after
+{
+	contain:"";
+	display:table;
+	clear:both;
+}
+.left
+{
+	float:left;
+}
+.w-25
+{
+	width:25%;
+}
+.w-75
+{
+	
+	width:75%;
+}
+*{
+	box-sizing:border-box;
+}
+.aa
+{
+	width:100%;
+	height:500px;
+}
+.ak
+{
+	
+	width:100%;
+	height:250px;
+}
+.as
+{
+	
+	width:100%;
+	height:250px;
+}
+img
+{
+	padding:10px;
+}
